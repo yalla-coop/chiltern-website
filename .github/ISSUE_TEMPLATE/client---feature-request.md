@@ -2,7 +2,7 @@
 name: Client / Feature request
 about: Suggest an idea for this project
 title: ''
-labels: sla, enhancement
+labels: sla, enhancement, website
 assignees: 'cyberteenie, yalla-coop-sla'
 
 ---
