@@ -2,7 +2,7 @@
 name: Issues
 about: This is to create issues for development work
 title: ''
-labels: ''
+labels: 'website'
 assignees: ''
 
 ---
