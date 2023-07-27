@@ -3,7 +3,7 @@ description: "Ask a question."
 title: "Replace with Your Title"
 labels: [question, sla]
 assignees:
-  - cyberteenie
+  - bethanyios
   - fadeomar
   - yalla-coop-sla
 body:
