@@ -5,7 +5,7 @@ labels: [bug, sla, website]
 assignees:
   - fadeomar
   - yalla-coop-sla
-  - cyberteenie
+  - bethanyios
 body:
   - type: dropdown
     id: priority
