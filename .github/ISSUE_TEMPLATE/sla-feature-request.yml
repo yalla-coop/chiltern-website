@@ -5,7 +5,7 @@ labels: [enhancement, sla, website]
 assignees:
   - fadeomar
   - yalla-coop-sla
-  - cyberteenie
+  - bethanyios
 body:
   - type: textarea
     attributes:
