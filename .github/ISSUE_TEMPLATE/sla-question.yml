@@ -3,9 +3,7 @@ description: "Ask a question."
 title: "Replace with Your Title"
 labels: [question, sla]
 assignees:
-  - fadeomar
   - yalla-coop-sla
-  - cyberteenie
   - RamyAlshurafa
 body:
   - type: textarea
