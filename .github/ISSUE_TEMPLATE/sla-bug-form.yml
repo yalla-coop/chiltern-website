@@ -3,9 +3,7 @@ description: "File a bug/issue."
 title: "Replace with Your Title"
 labels: [bug, sla, website]
 assignees:
-  - fadeomar
   - yalla-coop-sla
-  - cyberteenie
   - RamyAlshurafa
 body:
   - type: dropdown
