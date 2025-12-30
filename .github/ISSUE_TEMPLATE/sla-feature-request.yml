@@ -5,6 +5,7 @@ labels: [enhancement, sla, website]
 assignees:
   - yalla-coop-sla
   - AbdelhalimOJ
+  - gaymemohamed
 body:
   - type: dropdown
     id: priority
