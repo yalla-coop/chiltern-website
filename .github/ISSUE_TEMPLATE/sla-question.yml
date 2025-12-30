@@ -5,6 +5,7 @@ labels: [question, sla]
 assignees:
   - yalla-coop-sla
   - AbdelhalimOJ
+  - gaymemohamed
 body:
   - type: textarea
     attributes:
